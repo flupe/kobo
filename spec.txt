@@ -1,0 +1,12 @@
+Kobo Aura Edition 2
+-------------------
+
+SCR: E-Ink Carta 6" 768x1024 212ppi
+
+CPU: Freescale iMx6 Solo Lite 1Ghz
+     ARM Cortex A9
+
+     MEM: LP-DDR2 16/32 bits
+          DDR3/LV-DDR3 16/32 bits
+
+MEM: 4GB SD card
