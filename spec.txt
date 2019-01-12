@@ -14,26 +14,47 @@ CPU: Freescale iMx6 Solo Lite 1Ghz
 MEM: 4GB microSD card
 
 -------------------
-
 (SF) 60QL2B2077C030713
+-------------------
+┎─────────────────┒
+┃ NANYA1645       ┃
+┃ NT6TL64M32BQ-G1 ┃
+┃ 630347R0EF 3 TW ┃
+┖─────────────────┚
+  DRAM chip
+  256M 12x12mm
+  VFBGA-168
+  64M x 32 DDR DRAM
+-------------------
+┎─────────────────┒
+┃ MCIMX6L7DVN10AB ┃
+┃ XAD1638         ┃
+┃ TAIW FLADXAN    ┃
+┖─────────────────┚
+  CPU iMX6 series
+  32bit MPU
+  13x13mm
+  MAPBGA 432
+  ARM Cortex A9 core
+  1GHz
+-------------------
+┎─────────┒
+┃ RICOH   ┃
+┃ RC5T619 ┃
+┃ 1010    ┃
+┃ 7149N2  ┃
+┖─────────┚
+  Power Management Unit
+-------------------
+┎─────────┒
+┃ REALTEK ┃
+┃ 8189FTV ┃
+┃ H31E7G1 ┃
+┃ GH148   ┃
+┖─────────┚
+  WLAN chip
+-------------------
 
-NANYA1645
-NT6TL64M32BQ-G1
-630347R0EF 3 TW
-
-MCIMX6L7DVN10AB
-XAD1638
-TAIW FLADXAN
-
-RICOH
-RC5T619
-1010
-7149N2
-
-REALTECH
-8189FTV
-H31E7G1
-GH148
 
 ELAN
 eKTF2232ALW
@@ -46,5 +67,3 @@ BJC171A3
 9928A
 G
 T952G
-
-
