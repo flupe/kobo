@@ -1,0 +1,9 @@
+backup from sd card
+
+dd if=/dev/mmcblk0 conv=sync,noerror status=progress bs=64K | gzip -c > kobo.img.gz
+gunzip kobo.img.gz
+fdisk -l kobo.img
+
+mkdir -p /mnt/kobo
+mount -o loop,offset=25165824 kobo.img /mnt/kobo
+mount -o loop,offset=293601792 kobo.img /mnt/kobo
